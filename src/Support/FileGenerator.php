@@ -1,5 +1,5 @@
 <?php
-namespace Theanik\LaravelMoreCommand\Support;
+namespace JosHoangTien\LaravelMoreCommand\Support;
 
 use Illuminate\Filesystem\Filesystem;
 

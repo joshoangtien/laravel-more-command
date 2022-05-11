@@ -1,7 +1,7 @@
-![issues](https://img.shields.io/github/issues/theanik/laravel-more-command??style=flat&logo=appveyor)
-![forks](https://img.shields.io/github/forks/theanik/laravel-more-command?style=flat&logo=appveyor)
-![stars](https://img.shields.io/github/stars/theanik/laravel-more-command?style=flat&logo=appveyor)
-[![GitHub license](https://img.shields.io/github/license/theanik/laravel-more-command)](https://github.com/theanik/laravel-more-command/blob/master/LICENSE)
+![issues](https://img.shields.io/github/issues/joshoangtien/laravel-more-command??style=flat&logo=appveyor)
+![forks](https://img.shields.io/github/forks/joshoangtien/laravel-more-command?style=flat&logo=appveyor)
+![stars](https://img.shields.io/github/stars/joshoangtien/laravel-more-command?style=flat&logo=appveyor)
+[![GitHub license](https://img.shields.io/github/license/joshoangtien/laravel-more-command)](https://github.com/joshoangtien/laravel-more-command/blob/master/LICENSE)
 
 # Laravel More Command
 Laravel More Command is a collection of a few `php artisan` commands. You can use it to create a __Repository, Repository with Interface, Service, Trait, View(blade file)__, and __Clear Log__ from the command line using `php artisan` command.\
@@ -12,20 +12,20 @@ Laravel More Command is a collection of a few `php artisan` commands. You can us
 Require the package with composer using the following command:
 
 ```
-composer require theanik/laravel-more-command --dev
+composer require joshoangtien/laravel-more-command --dev
 ```
 
 Or add the following to your composer.json's require-dev section and `composer update`
 
 ```json
 "require-dev": {
-    "theanik/laravel-more-command": "^1.3.0"
+    "joshoangtien/laravel-more-command": "^1.3.0"
 }
 ```
 
 ## Publish Package Configuration
 ```shell
- php artisan vendor:publish --provider="Theanik\LaravelMoreCommand\LaravelMoreCommandProvider" --tag="config"
+ php artisan vendor:publish --provider="JosHoangTien\LaravelMoreCommand\LaravelMoreCommandProvider" --tag="config"
 ```
 ### To Change Default Namespace [config/laravel-more-command.php]
 ```php

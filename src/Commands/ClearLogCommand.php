@@ -1,6 +1,6 @@
 <?php
 
-namespace Theanik\LaravelMoreCommand\Commands;
+namespace JosHoangTien\LaravelMoreCommand\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Log;

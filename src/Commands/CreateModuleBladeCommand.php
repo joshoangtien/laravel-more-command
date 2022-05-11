@@ -1,8 +1,8 @@
 <?php
-namespace Theanik\LaravelMoreCommand\Commands;
+namespace JosHoangTien\LaravelMoreCommand\Commands;
 
-use Theanik\LaravelMoreCommand\Support\GenerateFile;
-use Theanik\LaravelMoreCommand\Support\FileGenerator;
+use JosHoangTien\LaravelMoreCommand\Support\GenerateFile;
+use JosHoangTien\LaravelMoreCommand\Support\FileGenerator;
 use Symfony\Component\Console\Input\InputArgument;
 use Illuminate\Support\Str;
 

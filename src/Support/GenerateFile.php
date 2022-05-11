@@ -1,6 +1,6 @@
 <?php
 
-namespace Theanik\LaravelMoreCommand\Support;
+namespace JosHoangTien\LaravelMoreCommand\Support;
 
 class GenerateFile{
 

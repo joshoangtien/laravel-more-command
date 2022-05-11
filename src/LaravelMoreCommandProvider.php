@@ -1,18 +1,18 @@
 <?php
 
-namespace Theanik\LaravelMoreCommand;
+namespace JosHoangTien\LaravelMoreCommand;
 
 use Illuminate\Support\ServiceProvider;
-use Theanik\LaravelMoreCommand\Commands\CreateRepositoryCommand;
-use Theanik\LaravelMoreCommand\Commands\CreateTraitCommand;
-use Theanik\LaravelMoreCommand\Commands\CreateServiceCommand;
-use Theanik\LaravelMoreCommand\Commands\CreateBladeCommand;
-use Theanik\LaravelMoreCommand\Commands\ClearLogCommand;
+use JosHoangTien\LaravelMoreCommand\Commands\CreateRepositoryCommand;
+use JosHoangTien\LaravelMoreCommand\Commands\CreateTraitCommand;
+use JosHoangTien\LaravelMoreCommand\Commands\CreateServiceCommand;
+use JosHoangTien\LaravelMoreCommand\Commands\CreateBladeCommand;
+use JosHoangTien\LaravelMoreCommand\Commands\ClearLogCommand;
 
-use Theanik\LaravelMoreCommand\Commands\CreateModuleRepositoryCommand;
-use Theanik\LaravelMoreCommand\Commands\CreateModuleTraitCommand;
-use Theanik\LaravelMoreCommand\Commands\CreateModuleServiceCommand;
-use Theanik\LaravelMoreCommand\Commands\CreateModuleBladeCommand;
+use JosHoangTien\LaravelMoreCommand\Commands\CreateModuleRepositoryCommand;
+use JosHoangTien\LaravelMoreCommand\Commands\CreateModuleTraitCommand;
+use JosHoangTien\LaravelMoreCommand\Commands\CreateModuleServiceCommand;
+use JosHoangTien\LaravelMoreCommand\Commands\CreateModuleBladeCommand;
 
 
 
